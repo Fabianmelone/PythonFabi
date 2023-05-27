@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PythonFabi
-- 👀 I’m interested in Coding, Fitness, Music, Gaming, Food, Socializing, Outings, Partys, Dancing and Movies.
+- 👀 I’m interested in Coding, Fitness, Music, Gaming, Food, Socializing, Outings, Partys, Dancing, Traveling and Movies.
 - 🌱 I’m currently learning Full Stack Flex Web Development(HTML, CSS, JavaScript(Web-APIs, Third-party APIs, Server-side APIs and more)).
 - 💞️ I’m looking to collaborate on any project that requires the things I'm currently learning.
 - 📫 How to reach me: Instagram: @fabi_wag_
