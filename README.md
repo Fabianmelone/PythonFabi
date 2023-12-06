@@ -2,10 +2,10 @@
 
 
 - 👋 Hi, I’m @PythonFabi
-- 👀 I’m interested in Coding, Fitness, Music, Gaming, Food, Socializing, Outings, Partys, Dancing, Traveling and Movies.
-- 🌱 I’m currently learning Full Stack Flex Web Development(HTML, CSS, JavaScript(Web-APIs, Third-party APIs, Server-side APIs and more)).
-- 💞️ I’m looking to collaborate on any project that requires the things I'm currently learning.
-- 📫 How to reach me: Instagram: @fabi_wag_
+- 👀 I’m interested in Coding, Fitness, Music, Gaming, Food, Socializing, Outings, Parties, Dancing, Traveling and Movies.
+- 🌱 I’m a Full Stack Web Developer
+- 💞️ I’m looking to collaborate on any project that requires the skills I possess(MERN Stack, JavaScript, React, HTML, CSS, Database Management, etc.) and beyond.
+- 📫 How to reach me: Email: fabianwagner.fwag@gmail.com
 
 <!---
 PythonFabi/PythonFabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
